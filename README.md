@@ -1,0 +1,2 @@
+# Commercial-Real-Estate-Machine-Learning-PD-Modeling
+Builds a CRE probability-of-default workflow using Python, NumPy, pandas, and scikit-learn. Generates loan-level risk features, trains three Random Forest versions, applies Platt calibration, compares AUC, Gini, KS, and Brier Score, identifies a champion model, and creates Excel output for portfolio risk ranking, credit surveillance, and reporting.
